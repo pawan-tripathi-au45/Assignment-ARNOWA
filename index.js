@@ -32,7 +32,7 @@ const sessionConfig = {
 app.use(session(sessionConfig));
 app.use(flash());
 
-// Initialising the passport and sessions for storing the users info
+// Initialising the passport and sessions for storing the user info
 
 app.use(passport.initialize());
 app.use(passport.session());
