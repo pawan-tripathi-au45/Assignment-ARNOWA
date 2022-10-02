@@ -1,13 +1,13 @@
 {
-  "name": "blogwebsite",
+  "name": "assignment",
   "version": "1.0.0",
-  "description": "this is my first blog website in FPRT",
+  "description": "assignment for arnowa",
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./index.js"
   },
   "keywords": [],
-  "author": "Md Danish",
+  "author": "Pawan Tripathi",
   "license": "ISC",
   "dependencies": {
     "connect-flash": "^0.1.1",
@@ -21,9 +21,4 @@
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^6.1.0"
   },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Md-Danish-au45"
-  }
 }
